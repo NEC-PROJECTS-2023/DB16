@@ -1,9 +1,12 @@
-# DB16
+## DB16
 Bird Species Classification
 ## Team Members
-N.Bhargava Raju 
-Ch.Shanmukha Chakravarthy 
-D.Balaji 
+1.N.Bhargava Raju 
+
+2.Ch.Shanmukha Chakravarthy 
+
+3.D.Balaji 
+
 ## Introduction
 Nowadays, Birdwatching is a common hobby but to identify their species requires the
 assistance of bird books. To provide birdwatchers a handy tool to admire the beauty of birds, we
