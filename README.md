@@ -1,10 +1,10 @@
 # DB16
 Bird Species Classification
-##Team Members
+## Team Members
 N.Bhargava Raju (19471A05N3)
 Ch.Shanmukha Chakravarthy (19471A05K6)
 D.Balaji (19471A05K9)
-##ABSTRACT
+## ABSTRACT
 Nowadays, Birdwatching is a common hobby but to identify their species requires the
 assistance of bird books. To provide birdwatchers a handy tool to admire the beauty of birds, we
 developed a deep learning platform to assist users in recognizing 27 species of birds endemic to Taiwan
